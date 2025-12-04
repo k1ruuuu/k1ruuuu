@@ -55,14 +55,14 @@
 ---
 
 ### 📈 Statistik GitHub  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=K1RU&show_icons=true&theme=radical&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1ruuuu&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K1RU&layout=compact&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k1ruuuu&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
 ### 🏆 Pencapaian  
-![Trophy](https://github-profile-trophy.vercel.app/?username=K1RU&theme=onedark&no-frame=true&row=2&column=4)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=k1ruuuu&theme=onedark&no-frame=true&row=2&column=4)  
 
 ---
 
