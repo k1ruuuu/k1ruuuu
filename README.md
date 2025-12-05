@@ -91,7 +91,7 @@
 ## 🌐 Contact & Intel Links  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazry-achbar-winandha-6690a2369)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://jriajahh.netlify.app)
-[![Email](https://img.shields.io/badge/Secure_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fajri123tq@gmail.com)
+[![Email](https://img.shields.io/badge/Secure_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:K1ruHunters@proton.me)
 
 ---
 
