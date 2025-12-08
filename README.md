@@ -1,14 +1,14 @@
 # 🩸 Fazry Achbar Winandha | Security Research  
 > _"Break it to secure it."_  
 
-🛠️ **Backend Developer • Cyber Security (Red Team) • Bug Hunter • Tool Developer**  
-🎯 Focused on **offensive security**, **exploit research**, **API penetration testing**, and **secure backend systems**.
+🛠️ **Backend Developer • Bug Hunter • Tool Developer**  
+🎯 Focused on **security research**, **exploit research**, **API penetration testing**, and **secure backend systems**.
 
 ---
 
 ## 🧠 Operator Profile  
-- 🔴 Role      : **Red Team, Security Research**
-- 🧪 Specialty : **Web Exploitation, API Security, Automation Tools**
+- 🔴 Role      : **Software Dev (Tool Dev), Security Research**
+- 🧪 Specialty : **Web Exploitation, API Security, Automation Tools, Web Dev**
 - 🏴 Mission   : **Find vulnerabilities before attackers do**
 - 🧬 Mindset   : **Think like an attacker, build like a defender**
 
@@ -19,12 +19,12 @@
 - 🌱 R&D Focus        : **Deep Learning & Artificial Intelligence**
 - 👯 Open Collaboration: **Web Security, Open-Source, Bug Bounty**
 - 💬 Ask Me About     : `Pentest • API Security • Backend • Exploit Logic • Automation`
-- 📫 Secure Contact  : **fajri123tq@gmail.com**
-- ⚡ Origin Story    : Started **Cyber Security & Development since 8th grade**
+- 📫 Secure Contact  : **K1ruHunters@proton.me**
+- ⚡ Origin Story    : Started **Security Research & Development since 8th grade**
 
 ---
 
-## 🧰 Arsenal — Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
