@@ -90,9 +90,11 @@ Focused on building scalable systems while exploring web application security an
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=k1ruuuu&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=k1ruuuu&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k1ruuuu&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ruuuu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
