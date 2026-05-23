@@ -18,41 +18,53 @@ Focused on building scalable systems while exploring web application security an
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-### Languages
-- Python
-- PHP
-- Java
-- Kotlin
-- JavaScript
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### Backend & Frameworks
-- FastAPI
-- Laravel
-- Express.js
-- REST APIs
+---
 
-### Database
-- MySQL
-- MongoDB
+### 🧠 Backend & API Warfare  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 
-### Tools & Environment
-- Git & GitHub
-- Linux
-- Docker
-- VS Code
-- Termux
+---
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Ops & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🛠️ Projects
 
 - Hotel Reservation Management System
-- Employee Attendance System
+- C2 (DDoS) (LEGAL ONLY WITH PERMISSION)
 - Android Applications
 - Backend APIs & Automation Tools
 - Security & Web Testing Projects
+- Monitoring IoT Server
+- Denah Application
+- SignVoice — AI
 
 ---
 
@@ -68,9 +80,14 @@ Focused on building scalable systems while exploring web application security an
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=k1ruuuu&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=k1ruuuu&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k1ruuuu&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=k1ruuuu&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🏆 Hall of Achievement  
+![Trophy](https://github-profile-trophy.vercel.app/?username=k1ruuuu&theme=onedark&no-frame=true&row=2&column=4)
 
 ---
 
